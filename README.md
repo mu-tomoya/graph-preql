@@ -64,7 +64,7 @@
 プリキュアシンガー
 ```
 
-## Demo
+## デモ
 
 ![Demo](./public/graph-preql.gif)
 
@@ -85,6 +85,9 @@ yarn
 yarn dev
 ```
 
-## Author
+## 作者
 
-[mu_tomoya](https://github.com/mu_tomoya)
+mu_tomoya
+
+[GitHub](https://github.com/mu_tomoya)
+[Qiita](https://qiita.com/mu_tomoya)
