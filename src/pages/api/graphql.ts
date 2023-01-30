@@ -10,6 +10,7 @@ const cors = Cors();
 const apolloServer = new ApolloServer({
   typeDefs,
   resolvers,
+  introspection: true,
   plugins: [ApolloServerPluginLandingPageGraphQLPlayground()],
 });
 
