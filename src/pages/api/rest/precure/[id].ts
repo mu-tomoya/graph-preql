@@ -4,5 +4,9 @@ import precure from "@/data/precure.json";
 
 export default function handler(req: NextApiRequest, res: NextApiResponse) {
   const id = req.query.id;
-  res.status(200).json(precure[id - 1]);
+  if (!id) {
+    res.status(200).json(precure);
+  } else {
+    res.status(200).json(precure[Number(id) - 1]);
+  }
 }
