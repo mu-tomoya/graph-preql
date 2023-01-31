@@ -1,8 +1,14 @@
 {
   "name": "graph-preql",
-  "version": "0.5.0",
+  "description": "Get information of a Precure with GraphQL!",
+  "version": "1.0.0",
   "private": true,
   "license": "MIT",
+  "author": {
+    "name": "Tomoya",
+    "email": "muton.tm.714@gmail.com",
+    "url": "https://github.com/mu_tomoya"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

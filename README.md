@@ -1,38 +1,90 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![IMAGE](./public/logo.png)
 
-## Getting Started
+<p align="center">
+<a alt="MIT License" href="https://kawakawaritsuki.mit-license.org/">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg">
+</a>
+</p>
 
-First, run the development server:
+<p align="center">Get Precure Information With GraphQL</p>
+<div align="center">
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+[Get PlayGround Demo](https://graph-preql.vercel.app/api/graphql)
+
+</div>
+
+## Graph PreQL とは？
+
+プリキュアシリーズのデータ（プリキュア各キャラ、作品、主題歌）を GraphQL で取得できる非公式 API です。
+
+### 取得できるデータ
+
+#### プリキュア
+
+```
+  名前
+  プリキュア名
+  登場シリーズ
+  プリキュアカラー
+  プリキュアチームに加入した放送日
+  妖精
+  変身アイテム
+  必殺技
+  声優
+  声優さんの誕生日
+  変身口上
+  年齢
+  誕生日
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### シリーズ
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+```
+タイトル
+放送開始日
+放送終了日
+全話数
+プロデューサー
+シリーズディレクター
+シリーズ構成
+キャラクターデザイン
+音楽
+```
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### 主題歌
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+```
+タイトル
+主題歌作品
+放映期間
+オープニング、エンディング区分
+作詞
+作曲
+編曲
+プリキュアシンガー
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Demo
 
-## Learn More
+![Demo](./public/graph-preql.gif)
 
-To learn more about Next.js, take a look at the following resources:
+## Install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Production
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+```
+yarn
+yarn build
+yarn start
+```
 
-## Deploy on Vercel
+### Development
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+```
+yarn
+yarn dev
+```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Author
+
+[mu_tomoya](https://github.com/mu_tomoya)
