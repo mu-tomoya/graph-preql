@@ -15,6 +15,7 @@ export default function Document() {
         />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@mu_tomoya" />
+        <meta name="twitter:description" content="プリキュアのGraphQLAPI" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <body>
