@@ -6,7 +6,7 @@ export default function Document() {
       <Head>
         <title>Graph PreQL</title>
         <meta name="description" content="プリキュアのGraphQLAPI" />
-        <meta property="og:title" content="Grapph PreQL" />
+        <meta property="og:title" content="Graph PreQL" />
         <meta property="og:url" content="https://graph-preql.vercel.app" />
         <meta name="description" content="プリキュアのGraphQLAPI" />
         <meta
