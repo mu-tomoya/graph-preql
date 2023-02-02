@@ -2122,7 +2122,7 @@
     "item": ["スカイミラージュ"],
     "color": "blue",
     "before_prologue": null,
-    "after_prologue": null,
+    "after_prologue": "無限にひろがる青い空！キュアスカイ！",
     "birthday": null,
     "age": null,
     "debut": "2023-02-05",
@@ -2142,10 +2142,10 @@
     "item": ["スカイミラージュ"],
     "color": "pink",
     "before_prologue": null,
-    "after_prologue": null,
+    "after_prologue": "ふわりひろがる優しい光！キュアプリズム！",
     "birthday": null,
     "age": 14,
-    "debut": "2023-02-01",
+    "debut": "2023-02-05",
     "voice": "加隈亜衣",
     "voice_birthday": "1988-09-09",
     "special": {
@@ -2153,5 +2153,43 @@
       "team": []
     },
     "fairy": ["エル"]
+  },
+  {
+    "id": 78,
+    "name": "",
+    "cure_name": "キュアウィング",
+    "item": [],
+    "color": "red",
+    "before_prologue": null,
+    "after_prologue": "天高くひろがる勇気！キュアウィング！",
+    "birthday": null,
+    "age": 12,
+    "debut": "2023-02-05",
+    "voice": "村瀬歩",
+    "voice_birthday": "1988-12-14",
+    "special": {
+      "solo": [],
+      "team": []
+    },
+    "fairy": "エル"
+  },
+  {
+    "id": 79,
+    "name": "",
+    "cure_name": "キュアバタフライ",
+    "item": [],
+    "color": "purple",
+    "before_prologue": null,
+    "after_prologue": "アゲてひろがるワンダホー！キュアバタフライ！",
+    "birthday": null,
+    "age": 18,
+    "debut": "2023-02-05",
+    "voice": "七瀬彩夏",
+    "voice_birthday": "1988-12-14",
+    "special": {
+      "solo": [],
+      "team": []
+    },
+    "fairy": "エル"
   }
 ]
