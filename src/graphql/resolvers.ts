@@ -23,15 +23,7 @@ export const resolvers: Config["resolvers"] = {
       }: {
         first: number | null;
         last: number | null;
-        color?:
-          | "black"
-          | "white"
-          | "pink"
-          | "blue"
-          | "yellow"
-          | "purple"
-          | "green"
-          | "red";
+        color?: "black" | "white" | "pink" | "blue" | "yellow" | "purple" | "green" | "red" | "gold";
         age?: {
           eq?: number;
           lt?: number;
@@ -79,10 +71,7 @@ export const resolvers: Config["resolvers"] = {
       }
       return result;
     },
-    precure: (
-      _,
-      { id: id, name: name, cure_name: cure_name, voice: voice }
-    ): Precure => {
+    precure: (_, { id: id, name: name, cure_name: cure_name, voice: voice }): Precure => {
       let result;
       if (!id && !name && !cure_name && !voice) {
         result = null;

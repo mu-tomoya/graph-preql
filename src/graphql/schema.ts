@@ -200,7 +200,7 @@ type Query {
         last: Int = null
       ): [Precure!]
 
-      """プリキュア検索、スプラッシュスターは名前、声優で検索すると最初の変身のみ"""
+      """プリキュア検索"""
       precure(
         """プリキュア名"""
         cure_name: String
