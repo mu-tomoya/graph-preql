@@ -1,10 +1,11 @@
 [
   {
-    "id": 1,
+    "no": 1,
+    "id": "black",
     "name": "美墨なぎさ",
     "cure_name": "キュアブラック",
     "series": "ふたりはプリキュア",
-    "series_id": 1,
+    "series_id": "futariwa",
     "item": "カードコミューン",
     "color": "black",
     "before_prologue": "デュアル・オーロラ・ウェイブ!",
@@ -22,11 +23,12 @@
     "fairy": ["メップル"]
   },
   {
-    "id": 2,
+    "no": 2,
+    "id": "white",
     "name": "雪代ほのか",
     "cure_name": "キュアホワイト",
     "series": "ふたりはプリキュア",
-    "series_id": 1,
+    "series_id": "futariwa",
     "item": "カードコミューン",
     "color": "white",
     "before_prologue": "デュアル・オーロラ・ウェイブ!",
@@ -44,11 +46,12 @@
     "fairy": ["ミップル"]
   },
   {
-    "id": 3,
+    "no": 3,
+    "id": "black_maxheart",
     "name": "美墨なぎさ（Max Heart）",
     "cure_name": "キュアブラック（Max Heart）",
     "series": "ふたりはプリキュア Max Heart",
-    "series_id": 2,
+    "series_id": "max_heart",
     "item": "ハートフルコミューン",
     "color": "black",
     "before_prologue": "デュアル・オーロラ・ウェイブ!",
@@ -71,11 +74,12 @@
     "fairy": ["メップル"]
   },
   {
-    "id": 4,
+    "no": 4,
+    "id": "white_maxheart",
     "name": "雪代ほのか（Max Heart）",
     "cure_name": "キュアホワイト（Max Heart）",
     "series": "ふたりはプリキュア Max Heart",
-    "series_id": 2,
+    "series_id": "max_heart",
     "item": "ハートフルコミューン",
     "color": "white",
     "before_prologue": "デュアル・オーロラ・ウェイブ!",
@@ -98,11 +102,12 @@
     "fairy": ["ミップル"]
   },
   {
-    "id": 5,
+    "no": 5,
+    "id": "luminous",
     "name": "九条ひかり",
     "cure_name": "シャイニールミナス",
     "series": "ふたりはプリキュア Max Heart",
-    "series_id": 2,
+    "series_id": "max_heart",
     "item": "タッチコミューン",
     "color": "yellow",
     "before_prologue": "ルミナス・シャイニング・ストリーム!",
@@ -120,11 +125,12 @@
     "fairy": ["ポルン", "ルルン"]
   },
   {
-    "id": 6,
+    "no": 6,
+    "id": "bloom",
     "name": "日向咲",
     "cure_name": "キュアブルーム",
     "series": "ふたりはプリキュア Splash Star",
-    "series_id": 3,
+    "series_id": "splash_star",
     "item": "ミックス・コミューン",
     "color": "pink",
     "before_prologue": "デュアル・スピリチュアル・パワー!",
@@ -146,11 +152,12 @@
     "fairy": ["フラッピ", "ムープ"]
   },
   {
-    "id": 7,
+    "no": 7,
+    "id": "egret",
     "name": "美翔舞",
     "cure_name": "キュアイーグレット",
     "series": "ふたりはプリキュア Splash Star",
-    "series_id": 3,
+    "series_id": "splash_star",
     "item": "ミックス・コミューン",
     "color": "white",
     "before_prologue": "デュアル・スピリチュアル・パワー!",
@@ -172,11 +179,12 @@
     "fairy": ["チョッピ", "フープ"]
   },
   {
-    "id": 8,
+    "no": 8,
+    "id": "dream",
     "name": "夢原のぞみ",
     "cure_name": "キュアドリーム",
     "series": "Yes!プリキュア5",
-    "series_id": 4,
+    "series_id": "five",
     "item": "ピンキーキャッチュ",
     "color": "pink",
     "before_prologue": "プリキュア・メタモルフォーゼ！",
@@ -194,11 +202,12 @@
     "fairy": ["ココ", "ナッツ", "ミルク"]
   },
   {
-    "id": 9,
+    "no": 9,
+    "id": "rouge",
     "name": "夏木りん",
     "cure_name": "キュアルージュ",
     "series": "Yes!プリキュア5",
-    "series_id": 4,
+    "series_id": "five",
     "item": "ピンキーキャッチュ",
     "color": "red",
     "before_prologue": "プリキュア・メタモルフォーゼ！",
@@ -216,11 +225,12 @@
     "fairy": ["ココ", "ナッツ"]
   },
   {
-    "id": 10,
+    "no": 10,
+    "id": "lemonade",
     "name": "春日野うらら",
     "cure_name": "キュアレモネード",
     "series": "Yes!プリキュア5",
-    "series_id": 4,
+    "series_id": "five",
     "item": "ピンキーキャッチュ",
     "color": "yellow",
     "before_prologue": "プリキュア・メタモルフォーゼ！",
@@ -238,11 +248,12 @@
     "fairy": ["ココ", "ナッツ"]
   },
   {
-    "id": 11,
+    "no": 11,
+    "id": "mint",
     "name": "秋元こまち",
     "cure_name": "キュアミント",
     "series": "Yes!プリキュア5",
-    "series_id": 4,
+    "series_id": "five",
     "item": "ピンキーキャッチュ",
     "color": "green",
     "before_prologue": "プリキュア・メタモルフォーゼ！",
@@ -260,11 +271,12 @@
     "fairy": ["ココ", "ナッツ"]
   },
   {
-    "id": 12,
+    "no": 12,
+    "id": "aqua",
     "name": "水無月かれん",
     "cure_name": "キュアアクア",
     "series": "Yes!プリキュア5",
-    "series_id": 4,
+    "series_id": "five",
     "item": "ピンキーキャッチュ",
     "color": "blue",
     "before_prologue": "プリキュア・メタモルフォーゼ！",
@@ -282,11 +294,12 @@
     "fairy": ["ココ", "ナッツ"]
   },
   {
-    "id": 13,
+    "no": 13,
+    "id": "dream_gogo",
     "name": "夢原のぞみ（5GoGo!）",
     "cure_name": "キュアドリーム（5GoGo!）",
     "series": "Yes!プリキュア5GoGo!",
-    "series_id": 5,
+    "series_id": "five_gogo",
     "item": "キュアモ",
     "color": "pink",
     "before_prologue": "プリキュア・メタモルフォーゼ！",
@@ -304,11 +317,12 @@
     "fairy": ["ココ", "ナッツ", "シロップ", "メルポ"]
   },
   {
-    "id": 14,
+    "no": 14,
+    "id": "rouge_gogo",
     "name": "夏木りん（5GoGo!）",
     "cure_name": "キュアルージュ（5GoGo!）",
     "series": "Yes!プリキュア5GoGo!",
-    "series_id": 5,
+    "series_id": "five_gogo",
     "item": "キュアモ",
     "color": "red",
     "before_prologue": "プリキュア・メタモルフォーゼ！",
@@ -326,11 +340,12 @@
     "fairy": ["ココ", "ナッツ", "ミルク", "シロップ", "メルポ"]
   },
   {
-    "id": 15,
+    "no": 15,
+    "id": "lemonade_gogo",
     "name": "春日野うらら（5GoGo!）",
     "cure_name": "キュアレモネード（5GoGo!）",
     "series": "Yes!プリキュア5GoGo!",
-    "series_id": 5,
+    "series_id": "five_gogo",
     "item": "キュアモ",
     "color": "yellow",
     "before_prologue": "プリキュア・メタモルフォーゼ！",
@@ -348,11 +363,12 @@
     "fairy": ["ココ", "ナッツ", "ミルク", "シロップ", "メルポ"]
   },
   {
-    "id": 16,
+    "no": 16,
+    "id": "mint_gogo",
     "name": "秋元こまち（5GoGo!）",
     "cure_name": "キュアミント（5GoGo!）",
     "series": "Yes!プリキュア5GoGo!",
-    "series_id": 5,
+    "series_id": "five_gogo",
     "item": "キュアモ",
     "color": "green",
     "before_prologue": "プリキュア・メタモルフォーゼ！",
@@ -370,11 +386,12 @@
     "fairy": ["ココ", "ナッツ", "ミルク", "シロップ", "メルポ"]
   },
   {
-    "id": 17,
+    "no": 17,
+    "id": "aqua_gogo",
     "name": "水無月かれん（5GoGo!）",
     "cure_name": "キュアアクア（5GoGo!）",
     "series": "Yes!プリキュア5GoGo!",
-    "series_id": 5,
+    "series_id": "five_gogo",
     "item": "キュアモ",
     "color": "blue",
     "before_prologue": "プリキュア・メタモルフォーゼ！",
@@ -392,11 +409,12 @@
     "fairy": ["ココ", "ナッツ", "ミルク", "シロップ", "メルポ"]
   },
   {
-    "id": 18,
+    "no": 18,
+    "id": "milkyrose",
     "name": "美々野くるみ",
     "cure_name": "ミルキィローズ",
     "series": "Yes!プリキュア5GoGo!",
-    "series_id": 5,
+    "series_id": "five_gogo",
     "item": "ミルキィパレット",
     "color": "purple",
     "before_prologue": "スカイローズ・トランスレイト！",
@@ -414,11 +432,12 @@
     "fairy": ["ココ", "ナッツ", "シロップ", "メルポ"]
   },
   {
-    "id": 19,
+    "no": 19,
+    "id": "peach",
     "name": "桃園ラブ",
     "cure_name": "キュアピーチ",
     "series": "フレッシュプリキュア!",
-    "series_id": 6,
+    "series_id": "fresh",
     "item": "リンクルン",
     "color": "pink",
     "before_prologue": "チェインジ・プリキュア ビートアップ！",
@@ -441,11 +460,12 @@
     "fairy": ["シフォン", "タルト", "ピルン"]
   },
   {
-    "id": 20,
+    "no": 20,
+    "id": "berry",
     "name": "蒼乃美希",
     "cure_name": "キュアベリー",
     "series": "フレッシュプリキュア!",
-    "series_id": 6,
+    "series_id": "fresh",
     "item": "リンクルン",
     "color": "blue",
     "before_prologue": "チェインジ・プリキュア ビートアップ！",
@@ -468,11 +488,12 @@
     "fairy": ["シフォン", "タルト", "ブルン"]
   },
   {
-    "id": 21,
+    "no": 21,
+    "id": "pine",
     "name": "山吹祈里",
     "cure_name": "キュアパイン",
     "series": "フレッシュプリキュア!",
-    "series_id": 6,
+    "series_id": "fresh",
     "item": "リンクルン",
     "color": "yellow",
     "before_prologue": "チェインジ・プリキュア ビートアップ！",
@@ -495,11 +516,12 @@
     "fairy": ["シフォン", "タルト", "キルン"]
   },
   {
-    "id": 22,
+    "no": 22,
+    "id": "passion",
     "name": "東せつな",
     "cure_name": "キュアパッション",
     "series": "フレッシュプリキュア!",
-    "series_id": 6,
+    "series_id": "fresh",
     "item": "リンクルン",
     "color": "red",
     "before_prologue": "チェインジ・プリキュア ビートアップ！",
@@ -521,11 +543,12 @@
     "fairy": ["シフォン", "タルト", "アカルン"]
   },
   {
-    "id": 23,
+    "no": 23,
+    "id": "blossom",
     "name": "花咲つぼみ",
     "cure_name": "キュアブロッサム",
     "series": "ハートキャッチプリキュア!",
-    "series_id": 7,
+    "series_id": "heart_catch",
     "item": "ココロパフューム",
     "color": "pink",
     "before_prologue": "プリキュア・オープンマイハート!",
@@ -553,11 +576,12 @@
     "fairy": ["シプレ"]
   },
   {
-    "id": 24,
+    "no": 24,
+    "id": "marin",
     "name": "来海えりか",
     "cure_name": "キュアマリン",
     "series": "ハートキャッチプリキュア!",
-    "series_id": 7,
+    "series_id": "heart_catch",
     "item": "ココロパフューム",
     "color": "blue",
     "before_prologue": "プリキュア・オープンマイハート!",
@@ -587,11 +611,12 @@
     "fairy": ["コフレ"]
   },
   {
-    "id": 25,
+    "no": 25,
+    "id": "sunshine",
     "name": "明堂院いつき",
     "cure_name": "キュアサンシャイン",
     "series": "ハートキャッチプリキュア!",
-    "series_id": 7,
+    "series_id": "heart_catch",
     "item": "シャイニーパフューム",
     "color": "yellow",
     "before_prologue": "プリキュア・オープンマイハート!",
@@ -622,11 +647,12 @@
     "fairy": ["ポプリ"]
   },
   {
-    "id": 26,
+    "no": 26,
+    "id": "moonlight",
     "name": "月影ゆり",
     "cure_name": "キュアムーンライト",
     "series": "ハートキャッチプリキュア!",
-    "series_id": 7,
+    "series_id": "heart_catch",
     "item": "ココロポット",
     "color": "purple",
     "before_prologue": "プリキュア・オープンマイハート!",
@@ -649,11 +675,12 @@
     "fairy": [""]
   },
   {
-    "id": 27,
+    "no": 27,
+    "id": "melody",
     "name": "北条響",
     "cure_name": "キュアメロディ",
     "series": "スイートプリキュア♪",
-    "series_id": 8,
+    "series_id": "suite",
     "item": "キュアモジューレ",
     "color": "pink",
     "before_prologue": "レッツプレイ! プリキュア・モジュレーション!",
@@ -678,11 +705,12 @@
     "fairy": ["ドリー", "ミリー", "ハミィ"]
   },
   {
-    "id": 28,
+    "no": 28,
+    "id": "rhythm",
     "name": "南野奏",
     "cure_name": "キュアリズム",
     "series": "スイートプリキュア♪",
-    "series_id": 8,
+    "series_id": "suite",
     "item": "キュアモジューレ",
     "color": "white",
     "before_prologue": "レッツプレイ! プリキュア・モジュレーション!",
@@ -707,11 +735,12 @@
     "fairy": ["レリー", "ファリー", "ハミィ"]
   },
   {
-    "id": 29,
+    "no": 29,
+    "id": "beat",
     "name": "黒川エレン",
     "cure_name": "キュアビート",
     "series": "スイートプリキュア♪",
-    "series_id": 8,
+    "series_id": "suite",
     "item": "キュアモジューレ",
     "color": "blue",
     "before_prologue": "レッツプレイ! プリキュア・モジュレーション!",
@@ -734,11 +763,12 @@
     "fairy": ["ラリー", "ソリー", "ハミィ"]
   },
   {
-    "id": 30,
+    "no": 30,
+    "id": "muse",
     "name": "調辺アコ",
     "cure_name": "キュアミューズ",
     "series": "スイートプリキュア♪",
-    "series_id": 8,
+    "series_id": "suite",
     "item": "キュアモジューレ",
     "color": "yellow",
     "before_prologue": "レッツプレイ! プリキュア・モジュレーション!",
@@ -760,11 +790,12 @@
     "fairy": ["ドドリー", "シリー", "ハミィ"]
   },
   {
-    "id": 31,
+    "no": 31,
+    "id": "happy",
     "name": "星空みゆき",
     "cure_name": "キュアハッピー",
     "series": "スマイルプリキュア!",
-    "series_id": 9,
+    "series_id": "smile",
     "item": "スマイルパクト",
     "color": "pink",
     "before_prologue": "プリキュア、スマイルチャージ！",
@@ -788,11 +819,12 @@
     "fairy": ["キャンディ"]
   },
   {
-    "id": 32,
+    "no": 32,
+    "id": "sunny",
     "name": "日野あかね",
     "cure_name": "キュアサニー",
     "series": "スマイルプリキュア!",
-    "series_id": 9,
+    "series_id": "smile",
     "item": "スマイルパクト",
     "color": "red",
     "before_prologue": "プリキュア、スマイルチャージ！",
@@ -817,11 +849,12 @@
     "fairy": ["キャンディ"]
   },
   {
-    "id": 33,
+    "no": 33,
+    "id": "peace",
     "name": "黄瀬やよい",
     "cure_name": "キュアピース",
     "series": "スマイルプリキュア!",
-    "series_id": 9,
+    "series_id": "smile",
     "item": "スマイルパクト",
     "color": "yellow",
     "before_prologue": "プリキュア、スマイルチャージ！",
@@ -846,11 +879,12 @@
     "fairy": ["キャンディ"]
   },
   {
-    "id": 34,
+    "no": 34,
+    "id": "march",
     "name": "緑川なお",
     "cure_name": "キュアマーチ",
     "series": "スマイルプリキュア!",
-    "series_id": 9,
+    "series_id": "smile",
     "item": "スマイルパクト",
     "color": "green",
     "before_prologue": "プリキュア、スマイルチャージ！",
@@ -875,11 +909,12 @@
     "fairy": ["キャンディ"]
   },
   {
-    "id": 35,
+    "no": 35,
+    "id": "beauty",
     "name": "青木れいか",
     "cure_name": "キュアビューティ",
     "series": "スマイルプリキュア!",
-    "series_id": 9,
+    "series_id": "smile",
     "item": "スマイルパクト",
     "color": "blue",
     "before_prologue": "プリキュア、スマイルチャージ！",
@@ -904,11 +939,12 @@
     "fairy": ["キャンディ"]
   },
   {
-    "id": 36,
+    "no": 36,
+    "id": "heart",
     "name": "相田マナ",
     "cure_name": "キュアハート",
     "series": "ドキドキ!プリキュア",
-    "series_id": 10,
+    "series_id": "dokidoki",
     "item": "ラブリーコミューン",
     "color": "pink",
     "before_prologue": "プリキュア、ラブリンク！",
@@ -933,11 +969,12 @@
     "fairy": ["シャルル", "アイちゃん"]
   },
   {
-    "id": 37,
+    "no": 37,
+    "id": "diamond",
     "name": "菱川六花",
     "cure_name": "キュアダイヤモンド",
     "series": "ドキドキ!プリキュア",
-    "series_id": 10,
+    "series_id": "dokidoki",
     "item": "ラブリーコミューン",
     "color": "blue",
     "before_prologue": "プリキュア、ラブリンク！",
@@ -960,11 +997,12 @@
     "fairy": ["ラケル", "アイちゃん"]
   },
   {
-    "id": 38,
+    "no": 38,
+    "id": "rosetta",
     "name": "四葉ありす",
     "cure_name": "キュアロゼッタ",
     "series": "ドキドキ!プリキュア",
-    "series_id": 10,
+    "series_id": "dokidoki",
     "item": "ラブリーコミューン",
     "color": "yellow",
     "before_prologue": "プリキュア、ラブリンク！",
@@ -987,11 +1025,12 @@
     "fairy": ["ランス", "アイちゃん"]
   },
   {
-    "id": 39,
+    "no": 39,
+    "id": "sword",
     "name": "剣崎真琴",
     "cure_name": "キュアソード",
     "series": "ドキドキ!プリキュア",
-    "series_id": 10,
+    "series_id": "dokidoki",
     "item": "ラブリーコミューン",
     "color": "purple",
     "before_prologue": "プリキュア、ラブリンク！",
@@ -1021,11 +1060,12 @@
     "fairy": ["ダビィ", "アイちゃん"]
   },
   {
-    "id": 40,
+    "no": 40,
+    "id": "ace",
     "name": "円亜久里",
     "cure_name": "キュアエース",
     "series": "ドキドキ!プリキュア",
-    "series_id": 10,
+    "series_id": "dokidoki",
     "item": "ラブアイズパレット",
     "color": "red",
     "before_prologue": "プリキュア・ドレスアップ！",
@@ -1043,11 +1083,12 @@
     "fairy": ["アイちゃん"]
   },
   {
-    "id": 41,
+    "no": 41,
+    "id": "lovely",
     "name": "愛乃めぐみ",
     "cure_name": "キュアラブリー",
     "series": "ハピネスチャージプリキュア!",
-    "series_id": 11,
+    "series_id": "happiness_charge",
     "item": "プリチェンミラー",
     "color": "pink",
     "before_prologue": "プリキュア、くるりんミラーチェンジ!",
@@ -1085,11 +1126,12 @@
     "fairy": ["リボン"]
   },
   {
-    "id": 42,
+    "no": 42,
+    "id": "princess",
     "name": "白雪ひめ",
     "cure_name": "キュアプリンセス",
     "series": "ハピネスチャージプリキュア!",
-    "series_id": 11,
+    "series_id": "happiness_charge",
     "item": "プリチェンミラー",
     "color": "blue",
     "before_prologue": "プリキュア、くるりんミラーチェンジ!",
@@ -1122,11 +1164,12 @@
     "fairy": ["リボン"]
   },
   {
-    "id": 43,
+    "no": 43,
+    "id": "honey",
     "name": "大森ゆうこ",
     "cure_name": "キュアハニー",
     "series": "ハピネスチャージプリキュア!",
-    "series_id": 11,
+    "series_id": "happiness_charge",
     "item": "プリチェンミラー",
     "color": "yellow",
     "before_prologue": "プリキュア、くるりんミラーチェンジ!",
@@ -1159,11 +1202,12 @@
     "fairy": ["リボン"]
   },
   {
-    "id": 44,
+    "no": 44,
+    "id": "fortune",
     "name": "氷川いおな",
     "cure_name": "キュアフォーチュン",
     "series": "ハピネスチャージプリキュア!",
-    "series_id": 11,
+    "series_id": "happiness_charge",
     "item": "フォーチュンピアノ",
     "color": "purple",
     "before_prologue": "プリキュア、きらりんスターシンフォニー!",
@@ -1196,11 +1240,12 @@
     "fairy": ["ぐらさん"]
   },
   {
-    "id": 45,
+    "no": 45,
+    "id": "flora",
     "name": "春野はるか",
     "cure_name": "キュアフローラ",
     "series": "Go!プリンセスプリキュア",
-    "series_id": 12,
+    "series_id": "go_princess",
     "item": "プリンセスパフューム",
     "color": "pink",
     "before_prologue": "プリキュア！ プリンセスエンゲージ！",
@@ -1229,11 +1274,12 @@
     "fairy": ["パフ", "アロマ"]
   },
   {
-    "id": 46,
+    "no": 46,
+    "id": "mermaid",
     "name": "海藤みなみ",
     "cure_name": "キュアマーメイド",
     "series": "Go!プリンセスプリキュア",
-    "series_id": 12,
+    "series_id": "go_princess",
     "item": "プリンセスパフューム",
     "color": "blue",
     "before_prologue": "プリキュア！ プリンセスエンゲージ！",
@@ -1262,11 +1308,12 @@
     "fairy": ["パフ", "アロマ"]
   },
   {
-    "id": 47,
+    "no": 47,
+    "id": "twinkle",
     "name": "天ノ川きらら",
     "cure_name": "キュアトゥインクル",
     "series": "Go!プリンセスプリキュア",
-    "series_id": 12,
+    "series_id": "go_princess",
     "item": "プリンセスパフューム",
     "color": "yellow",
     "before_prologue": "プリキュア！ プリンセスエンゲージ！",
@@ -1295,11 +1342,12 @@
     "fairy": ["パフ", "アロマ"]
   },
   {
-    "id": 48,
+    "no": 48,
+    "id": "scarlet",
     "name": "紅城トワ",
     "cure_name": "キュアスカーレット",
     "series": "Go!プリンセスプリキュア",
-    "series_id": 12,
+    "series_id": "go_princess",
     "item": "プリンセスパフューム",
     "color": "red",
     "before_prologue": "プリキュア！ プリンセスエンゲージ！",
@@ -1323,11 +1371,12 @@
     "fairy": ["パフ", "アロマ"]
   },
   {
-    "id": 49,
+    "no": 49,
+    "id": "miracle",
     "name": "朝日奈未来",
     "cure_name": "キュアミラクル",
     "series": "魔法つかいプリキュア!",
-    "series_id": 13,
+    "series_id": "maho",
     "item": "モフルン",
     "color": "pink",
     "before_prologue": "キュアップ・ラパパ！ミラクル・マジカル・ジュエリーレ！",
@@ -1360,11 +1409,12 @@
     "fairy": ["モフルン"]
   },
   {
-    "id": 50,
+    "no": 50,
+    "id": "magical",
     "name": "十六夜リコ",
     "cure_name": "キュアマジカル",
     "series": "魔法つかいプリキュア!",
-    "series_id": 13,
+    "series_id": "maho",
     "item": "モフルン",
     "color": "purple",
     "before_prologue": "キュアップ・ラパパ！ミラクル・マジカル・ジュエリーレ！",
@@ -1397,11 +1447,12 @@
     "fairy": ["モフルン"]
   },
   {
-    "id": 51,
+    "no": 51,
+    "id": "felice",
     "name": "花海ことは",
     "cure_name": "キュアフェリーチェ",
     "series": "魔法つかいプリキュア!",
-    "series_id": 13,
+    "series_id": "maho",
     "item": "リンクルスマホン",
     "color": "green",
     "before_prologue": "キュアップ・ラパパ！フェリーチェ・ファンファン・フラワーレ！",
@@ -1428,11 +1479,12 @@
     "fairy": ["モフルン"]
   },
   {
-    "id": 52,
+    "no": 52,
+    "id": "whip",
     "name": "宇佐美いちか",
     "cure_name": "キュアホイップ",
     "series": "キラキラ☆プリキュアアラモード",
-    "series_id": 14,
+    "series_id": "alamode",
     "item": "スイーツパクト",
     "color": "pink",
     "before_prologue": "キュアラモード・デコレーション！ ショートケーキ！ ",
@@ -1455,11 +1507,12 @@
     "fairy": ["ペコリン"]
   },
   {
-    "id": 53,
+    "no": 53,
+    "id": "custard",
     "name": "有栖川ひまり",
-    "cure_name": "キュアジェラート",
+    "cure_name": "キュアカスタード",
     "series": "キラキラ☆プリキュアアラモード",
-    "series_id": 14,
+    "series_id": "alamode",
     "item": "スイーツパクト",
     "color": "yellow",
     "before_prologue": "キュアラモード・デコレーション！ プリン！",
@@ -1482,11 +1535,12 @@
     "fairy": ["ペコリン"]
   },
   {
-    "id": 54,
+    "no": 54,
+    "id": "gelato",
     "name": "立神あおい",
-    "cure_name": "キュアカスタード",
+    "cure_name": "キュアジェラート",
     "series": "キラキラ☆プリキュアアラモード",
-    "series_id": 14,
+    "series_id": "alamode",
     "item": "スイーツパクト",
     "color": "blue",
     "before_prologue": "ュアラモード・デコレーション！ アイス！",
@@ -1496,7 +1550,7 @@
     "debut": "2017-02-19",
     "voice": "村中知",
     "voice_birthday": "1989-12-15",
-    "youtube_id": "-4J9bu4H9AY",
+    "youtube_id": "_wPxfMKu96c",
     "special": {
       "solo": ["ジェラート・シェイク"],
       "team": [
@@ -1509,11 +1563,12 @@
     "fairy": ["ペコリン"]
   },
   {
-    "id": 55,
+    "no": 55,
+    "id": "macron",
     "name": "琴爪ゆかり",
     "cure_name": "キュアマカロン",
     "series": "キラキラ☆プリキュアアラモード",
-    "series_id": 14,
+    "series_id": "alamode",
     "item": "スイーツパクト",
     "color": "purple",
     "before_prologue": "キュアラモード・デコレーション！ マカロン！ ",
@@ -1523,7 +1578,7 @@
     "debut": "2017-03-05",
     "voice": "藤田咲",
     "voice_birthday": "1984-10-19",
-    "youtube_id": "_wCuWlEidXM",
+    "youtube_id": "E7CEEfuengs",
     "special": {
       "solo": ["マカロン・ジュリエンヌ"],
       "team": [
@@ -1536,11 +1591,12 @@
     "fairy": ["ペコリン"]
   },
   {
-    "id": 56,
+    "no": 56,
+    "id": "chocolate",
     "name": "剣城あきら",
     "cure_name": "キュアショコラ",
     "series": "キラキラ☆プリキュアアラモード",
-    "series_id": 14,
+    "series_id": "alamode",
     "item": "スイーツパクト",
     "color": "red",
     "before_prologue": "キュアラモード・デコレーション！ チョコレート！",
@@ -1550,7 +1606,7 @@
     "debut": "2017-03-12",
     "voice": "森なな子",
     "voice_birthday": "1988-02-13",
-    "youtube_id": "4O7Wc8SXf_I",
+    "youtube_id": "3U33hBJWXBs",
     "special": {
       "solo": ["ショコラ・アロマーゼ"],
       "team": [
@@ -1563,11 +1619,12 @@
     "fairy": ["ペコリン"]
   },
   {
-    "id": 57,
+    "no": 57,
+    "id": "parfait",
     "name": "キラ星シエル",
     "cure_name": "キュアパルフェ",
     "series": "キラキラ☆プリキュアアラモード",
-    "series_id": 14,
+    "series_id": "alamode",
     "item": "スイーツパクト",
     "color": "green",
     "before_prologue": "キュアラモード・デコレーション！ パフェ！ ",
@@ -1577,7 +1634,7 @@
     "debut": "2017-07-16",
     "voice": "水瀬いのり",
     "voice_birthday": "1995-12-02",
-    "youtube_id": "YShLvUqtEUA",
+    "youtube_id": "Ue5NVmoHKyg",
     "special": {
       "solo": ["キラクル・レインボー", "パルフェ・エトワール"],
       "team": ["プリキュア・アニマルゴーランド", "プリキュア・ファンタスティックアニマーレ", "プリキュア・ファンタスティックアニマーレスペシャル"]
@@ -1585,11 +1642,12 @@
     "fairy": ["ペコリン"]
   },
   {
-    "id": 58,
+    "no": 58,
+    "id": "yell",
     "name": "野乃はな",
-    "cure_name": "キュアエース",
+    "cure_name": "キュアエール",
     "series": "HUGっと!プリキュア",
-    "series_id": 15,
+    "series_id": "hug",
     "item": "プリハート",
     "color": "pink",
     "before_prologue": "ミライクリスタル！ハート、キラっと！",
@@ -1599,7 +1657,7 @@
     "debut": "2018-02-04",
     "voice": "引坂理絵",
     "voice_birthday": "1989-09-11",
-    "youtube_id": null,
+    "youtube_id": "Ym5_kEPYmwQ",
     "special": {
       "solo": ["ハート・フォー・ユー", "フラワーシュート"],
       "team": ["プリキュア・トリニティ・コンサート", "プリキュア・チアフル・アタック", "プリキュア・オール・フォー・ユー", "みんなでトゥモロー"]
@@ -1607,11 +1665,12 @@
     "fairy": ["はぐたん", "ハリハム・ハリー"]
   },
   {
-    "id": 59,
+    "no": 59,
+    "id": "ange",
     "name": "薬師寺さあや",
     "cure_name": "キュアアンジュ",
     "series": "HUGっと!プリキュア",
-    "series_id": 15,
+    "series_id": "hug",
     "item": "プリハート",
     "color": "blue",
     "before_prologue": "ミライクリスタル！ハート、キラっと！",
@@ -1621,7 +1680,7 @@
     "debut": "2018-02-11",
     "voice": "本泉莉奈",
     "voice_birthday": "1993-02-04",
-    "youtube_id": null,
+    "youtube_id": "1pXB5cD9OOA",
     "special": {
       "solo": ["ハート・フェザー", "フェザーブラスト"],
       "team": ["プリキュア・トリニティ・コンサート", "プリキュア・チアフル・アタック", "プリキュア・オール・フォー・ユー", "みんなでトゥモロー"]
@@ -1629,11 +1688,12 @@
     "fairy": ["はぐたん", "ハリハム・ハリー"]
   },
   {
-    "id": 60,
+    "no": 60,
+    "id": "etoile",
     "name": "輝木ほまれ",
     "cure_name": "キュアエトワール",
     "series": "HUGっと!プリキュア",
-    "series_id": 15,
+    "series_id": "hug",
     "item": "プリハート",
     "color": "yellow",
     "before_prologue": "ミライクリスタル！ハート、キラっと！",
@@ -1651,11 +1711,12 @@
     "fairy": ["はぐたん", "ハリハム・ハリー"]
   },
   {
-    "id": 61,
+    "no": 61,
+    "id": "macherie",
     "name": "愛崎えみる",
     "cure_name": "キュアマシェリ",
     "series": "HUGっと!プリキュア",
-    "series_id": 15,
+    "series_id": "hug",
     "item": "プリハート",
     "color": "red",
     "before_prologue": "ミライクリスタル！ハート、キラっと！",
@@ -1673,11 +1734,12 @@
     "fairy": ["はぐたん", "ハリハム・ハリー"]
   },
   {
-    "id": 62,
+    "no": 62,
+    "id": "amour",
     "name": "ルールー・アムール",
     "cure_name": "キュアアムール",
     "series": "HUGっと!プリキュア",
-    "series_id": 15,
+    "series_id": "hug",
     "item": "プリハート",
     "color": "purple",
     "before_prologue": "ミライクリスタル！ハート、キラっと！",
@@ -1695,11 +1757,12 @@
     "fairy": ["はぐたん", "ハリハム・ハリー"]
   },
   {
-    "id": 63,
+    "no": 63,
+    "id": "star",
     "name": "星奈ひかる",
     "cure_name": "キュアスター",
     "series": "スター☆トゥインクルプリキュア",
-    "series_id": 16,
+    "series_id": "star_twinkle",
     "item": "スターカラーペンダント",
     "color": "pink",
     "before_prologue": "スターカラーペンダント！カラーチャージ！",
@@ -1722,11 +1785,12 @@
     "fairy": ["フワ", "プルンス"]
   },
   {
-    "id": 64,
+    "no": 64,
+    "id": "milky",
     "name": "羽衣ララ",
     "cure_name": "キュアミルキー",
     "series": "スター☆トゥインクルプリキュア",
-    "series_id": 16,
+    "series_id": "star_twinkle",
     "item": "スターカラーペンダント",
     "color": "green",
     "before_prologue": "スターカラーペンダント！カラーチャージ！",
@@ -1749,11 +1813,12 @@
     "fairy": ["フワ", "プルンス"]
   },
   {
-    "id": 65,
+    "no": 65,
+    "id": "soleil",
     "name": "天宮えれな",
     "cure_name": "キュアソレイユ",
     "series": "スター☆トゥインクルプリキュア",
-    "series_id": 16,
+    "series_id": "star_twinkle",
     "item": "スターカラーペンダント",
     "color": "yellow",
     "before_prologue": "スターカラーペンダント！カラーチャージ！",
@@ -1776,11 +1841,12 @@
     "fairy": ["フワ", "プルンス"]
   },
   {
-    "id": 66,
+    "no": 66,
+    "id": "selene",
     "name": "香久矢まどか",
     "cure_name": "キュアセレーネ",
     "series": "スター☆トゥインクルプリキュア",
-    "series_id": 16,
+    "series_id": "star_twinkle",
     "item": "スターカラーペンダント",
     "color": "purple",
     "before_prologue": "スターカラーペンダント！カラーチャージ！",
@@ -1803,11 +1869,12 @@
     "fairy": ["フワ", "プルンス"]
   },
   {
-    "id": 67,
+    "no": 67,
+    "id": "cosmo",
     "name": "ユニ",
     "cure_name": "キュアコスモ",
     "series": "スター☆トゥインクルプリキュア",
-    "series_id": 16,
+    "series_id": "star_twinkle",
     "item": "スターカラーペンダント",
     "color": "blue",
     "before_prologue": "スターカラーペンダント！カラーチャージ！",
@@ -1825,11 +1892,12 @@
     "fairy": ["フワ", "プルンス"]
   },
   {
-    "id": 68,
+    "no": 68,
+    "id": "grace",
     "name": "花寺のどか",
     "cure_name": "キュアグレース",
     "series": "ヒーリングっど♥プリキュア",
-    "series_id": 17,
+    "series_id": "healing",
     "item": "ヒーリングステッキ",
     "color": "pink",
     "before_prologue": "プリキュア・オペレーション！",
@@ -1847,11 +1915,12 @@
     "fairy": ["ラビリン"]
   },
   {
-    "id": 69,
+    "no": 69,
+    "id": "fontaine",
     "name": "沢泉ちゆ",
     "cure_name": "キュアフォンテーヌ",
     "series": "ヒーリングっど♥プリキュア",
-    "series_id": 17,
+    "series_id": "healing",
     "item": "ヒーリングステッキ",
     "color": "blue",
     "before_prologue": "プリキュア・オペレーション！",
@@ -1869,11 +1938,12 @@
     "fairy": ["ペギタン"]
   },
   {
-    "id": 70,
+    "no": 70,
+    "id": "sparkle",
     "name": "平光ひなた",
     "cure_name": "キュアスパークル",
     "series": "ヒーリングっど♥プリキュア",
-    "series_id": 17,
+    "series_id": "healing",
     "item": "ヒーリングステッキ",
     "color": "yellow",
     "before_prologue": "プリキュア・オペレーション！",
@@ -1891,11 +1961,12 @@
     "fairy": ["ニャトラン"]
   },
   {
-    "id": 71,
+    "no": 71,
+    "id": "earth",
     "name": "風鈴アスミ",
     "cure_name": "キュアアース",
     "series": "ヒーリングっど♥プリキュア",
-    "series_id": 17,
+    "series_id": "healing",
     "item": "ラテ",
     "color": "purple",
     "before_prologue": "プリキュア・オペレーション！",
@@ -1913,11 +1984,12 @@
     "fairy": ["ラテ"]
   },
   {
-    "id": 72,
+    "no": 72,
+    "id": "summer",
     "name": "夏海まなつ",
     "cure_name": "キュアサマー",
     "series": "トロピカル〜ジュ!プリキュア",
-    "series_id": 18,
+    "series_id": "tropical",
     "item": "トロピカルパクト",
     "color": "white",
     "before_prologue": "プリキュア！トロピカルチェンジ！レッツメイク！キャッチ！",
@@ -1940,11 +2012,12 @@
     "fairy": ["くるるん"]
   },
   {
-    "id": 73,
+    "no": 73,
+    "id": "coral",
     "name": "涼宮さんご",
     "cure_name": "キュアコーラル",
     "series": "トロピカル〜ジュ!プリキュア",
-    "series_id": 18,
+    "series_id": "tropical",
     "item": "トロピカルパクト",
     "color": "purple",
     "before_prologue": "プリキュア！トロピカルチェンジ！レッツメイク！キャッチ！",
@@ -1967,11 +2040,12 @@
     "fairy": ["くるるん"]
   },
   {
-    "id": 74,
+    "no": 74,
+    "id": "papaya",
     "name": "一之瀬みのり",
     "cure_name": "キュアパパイア",
     "series": "トロピカル〜ジュ!プリキュア",
-    "series_id": 18,
+    "series_id": "tropical",
     "item": "トロピカルパクト",
     "color": "yellow",
     "before_prologue": "プリキュア！トロピカルチェンジ！レッツメイク！キャッチ！",
@@ -1994,11 +2068,12 @@
     "fairy": ["くるるん"]
   },
   {
-    "id": 75,
+    "no": 75,
+    "id": "flamingo",
     "name": "滝沢あすか",
     "cure_name": "キュアフラミンゴ",
     "series": "トロピカル〜ジュ!プリキュア",
-    "series_id": 18,
+    "series_id": "tropical",
     "item": "トロピカルパクト",
     "color": "red",
     "before_prologue": "プリキュア！トロピカルチェンジ！レッツメイク！キャッチ！",
@@ -2021,11 +2096,12 @@
     "fairy": ["くるるん"]
   },
   {
-    "id": 76,
+    "no": 76,
+    "id": "lamer",
     "name": "ローラ・ラメール",
     "cure_name": "キュアラメール",
     "series": "トロピカル〜ジュ!プリキュア",
-    "series_id": 18,
+    "series_id": "tropical",
     "item": "マーメイドアクアパクト",
     "color": "blue",
     "before_prologue": "プリキュア！トロピカルチェンジ！レッツメイク！キャッチ！",
@@ -2043,11 +2119,12 @@
     "fairy": ["くるるん"]
   },
   {
-    "id": 77,
+    "no": 77,
+    "id": "precious",
     "name": "和実ゆい",
     "cure_name": "キュアプレシャス",
     "series": "デリシャスパーティ♡プリキュア",
-    "series_id": 19,
+    "series_id": "delicious",
     "item": "コメコメ",
     "color": "pink",
     "before_prologue": "プリキュア！ デリシャスタンバイ！ パーティ・ゴー！",
@@ -2072,11 +2149,12 @@
     "fairy": ["コメコメ"]
   },
   {
-    "id": 78,
+    "no": 78,
+    "id": "spicy",
     "name": "芙羽ここね",
     "cure_name": "キュアスパイシー",
     "series": "デリシャスパーティ♡プリキュア",
-    "series_id": 19,
+    "series_id": "delicious",
     "item": "パムパム",
     "color": "blue",
     "before_prologue": "プリキュア！ デリシャスタンバイ！ パーティ・ゴー！",
@@ -2100,11 +2178,12 @@
     "fairy": ["パムパム"]
   },
   {
-    "id": 79,
+    "no": 79,
+    "id": "yumyum",
     "name": "華満らん",
     "cure_name": "キュアヤムヤム",
     "series": "デリシャスパーティ♡プリキュア",
-    "series_id": 19,
+    "series_id": "delicious",
     "item": "メンメン",
     "color": "yellow",
     "before_prologue": "プリキュア！ デリシャスタンバイ！ パーティ・ゴー！",
@@ -2128,11 +2207,12 @@
     "fairy": ["メンメン"]
   },
   {
-    "id": 80,
+    "no": 80,
+    "id": "finale",
     "name": "華彩あまね",
     "cure_name": "キュアフィナーレ",
     "series": "デリシャスパーティ♡プリキュア",
-    "series_id": 19,
+    "series_id": "delicious",
     "item": "ハートフルーツペンダント",
     "color": "gold",
     "before_prologue": "プリキュア！ デリシャスタンバイ！ パーティ・ゴー！",
@@ -2150,11 +2230,12 @@
     "fairy": ["パフェのレシピッピ"]
   },
   {
-    "id": 81,
+    "no": 81,
+    "id": "sky",
     "name": "ソラ・ハレワタール",
     "cure_name": "キュアスカイ",
     "series": "ひろがるスカイ!プリキュア",
-    "series_id": 20,
+    "series_id": "herogirl",
     "item": "スカイミラージュ",
     "color": "blue",
     "before_prologue": "ひろがるチェンジ・スカイ！",
@@ -2172,11 +2253,12 @@
     "fairy": ["エル"]
   },
   {
-    "id": 82,
+    "no": 82,
+    "id": "prism",
     "name": "虹ヶ丘 ましろ",
     "cure_name": "キュアプリズム",
     "series": "ひろがるスカイ!プリキュア",
-    "series_id": 20,
+    "series_id": "herogirl",
     "item": "スカイミラージュ",
     "color": "pink",
     "before_prologue": "ひろがるチェンジ・プリズム！",
@@ -2190,6 +2272,29 @@
     "special": {
       "solo": ["ヒーローガールプリズムショット"],
       "team": ["プリキュア・アップドラフト・シャイニング"]
+    },
+    "fairy": ["エル"]
+  },
+  {
+    "no": 83,
+    "id": "wing",
+    "name": "夕凪ツバサ",
+    "cure_name": "キュアウィング",
+    "series": "ひろがるスカイ!プリキュア",
+    "series_id": "herogirl",
+    "item": "スカイミラージュ",
+    "color": "yellow",
+    "before_prologue": "ひろがるチェンジ・ウィング！",
+    "after_prologue": "天高くひろがる勇気！キュアウィング",
+    "birthday": null,
+    "age": 12,
+    "debut": "2023-04-02",
+    "voice": "村瀬歩",
+    "voice_birthday": "1988-12-14",
+    "youtube_id": null,
+    "special": {
+      "solo": [],
+      "team": []
     },
     "fairy": ["エル"]
   }

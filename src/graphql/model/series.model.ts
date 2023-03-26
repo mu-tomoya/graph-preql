@@ -1,5 +1,6 @@
 export interface Series {
-  id: number;
+  no: number;
+  id: string;
   title: string;
   start: string;
   end: string | null;
@@ -9,4 +10,5 @@ export interface Series {
   writer: string[];
   characterdesign: string;
   music: string[];
+  youtube_id: string;
 }

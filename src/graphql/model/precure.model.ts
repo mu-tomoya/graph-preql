@@ -1,5 +1,6 @@
 export interface Precure {
-  id: number;
+  no: number;
+  id: string;
   name: string;
   cure_name: string;
   series: string;
@@ -17,4 +18,5 @@ export interface Precure {
     team: string[];
   };
   fairy: string[];
+  youtube_id: string | null;
 }
