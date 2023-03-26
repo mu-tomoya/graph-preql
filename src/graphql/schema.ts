@@ -80,13 +80,16 @@ input Age {
       id: ID!
     
       """変身アイテム"""
-      item: [String!]!
+      item: String!
     
       """名前（変身前）"""
       name: String!
     
       """出演シリーズ"""
-      series: [String!]!
+      series: String!
+
+      """出演シリーズid"""
+      series_id: String!
     
       """必殺技"""
       special: Special
@@ -96,6 +99,10 @@ input Age {
     
       """声優の生年月日。生年不明は9999年としてある。"""
       voice_birthday: String!
+
+      """Youtubeの公式変身動画の動画id"""
+      youtube_id:String
+
     }
     type Series {
       """キャラクターデザイン"""
@@ -127,6 +134,9 @@ input Age {
     
       """シリーズ構成"""
       writer: [String!]!
+
+      """Youtubeの第一話のid"""
+      youtube_id:String
     }
     
     type Song {
@@ -146,7 +156,7 @@ input Age {
       series: String!
 
       """主題歌シリーズID"""
-      series_id:Int!
+      series_id:String!
     
       """放送期間、all:全期間、first:前期、second:後期"""
       term: String!
@@ -179,7 +189,7 @@ input Age {
       lt: Int
     }
 type Query {
-      """プリキュアオールスターズから検索（エコー、モフルン、その他特別仕様のプリキュアは除く）"""
+      """プリキュアオールスターズから検索（エコー、モフルン、特別仕様のプリキュアは除く）"""
       precureAllStars(
         """以後"""
         after: String = "2004-01-01"
