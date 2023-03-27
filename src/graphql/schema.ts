@@ -191,6 +191,8 @@ input Age {
 type Query {
       """プリキュアオールスターズから検索（エコー、モフルン、特別仕様のプリキュアは除く）"""
       precureAllStars(
+        """シリーズID"""
+        series_id:String
         """シリーズ名"""
         series:String
         """以後"""
@@ -217,7 +219,7 @@ type Query {
         cure_name: String
     
         """ID"""
-        id: Int
+        id: String
     
         """名前（普段の名前）"""
         name: String
