@@ -19,6 +19,7 @@
   ],
   "rules": {
     "@next/next/no-title-in-document-head": "off",
-    "@next/next/no-img-element": "off"
+    "@next/next/no-img-element": "off",
+    "@next/next/no-document-title": "off"
   }
 }

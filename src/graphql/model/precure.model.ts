@@ -4,6 +4,7 @@ export interface Precure {
   name: string;
   cure_name: string;
   series: string;
+  series_id: string;
   item: string;
   color: string;
   before_prologue: string | null;
