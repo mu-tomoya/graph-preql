@@ -14,6 +14,7 @@ export const resolvers: Config["resolvers"] = {
     precureAllStars: (
       _,
       {
+        series: series,
         first: first = null,
         last: last = null,
         color: color,
@@ -21,6 +22,7 @@ export const resolvers: Config["resolvers"] = {
         before: before = "3000-02-01",
         after: after = "2004-02-01",
       }: {
+        series: string;
         first: number | null;
         last: number | null;
         color?: "black" | "white" | "pink" | "blue" | "yellow" | "purple" | "green" | "red" | "gold";
@@ -34,6 +36,13 @@ export const resolvers: Config["resolvers"] = {
       }
     ): Precure[] => {
       let result = precures;
+      if (series) {
+        result = result.filter((precure) => {
+          const re_prcure_series = precure.series.replace(/(☆|♥|!|♪|♡)/, "");
+          const re_series = series.replace(/(☆|♥|!|♪|♡)/, "");
+          return re_prcure_series.includes(re_series);
+        });
+      }
       if (after !== "2004-02-01" || before !== "3000-02-01") {
         const before_date = new Date(before);
         const after_date = new Date(after);

@@ -191,15 +191,16 @@ input Age {
 type Query {
       """プリキュアオールスターズから検索（エコー、モフルン、特別仕様のプリキュアは除く）"""
       precureAllStars(
+        """シリーズ名"""
+        series:String
         """以後"""
         after: String = "2004-01-01"
-    
-        """プリキュアの年齢(普段の姿),不明はnull"""
-        age: Age
-    
         """以前"""
         before: String = "3000-12-01"
-    
+
+        """プリキュアの年齢(普段の姿),不明はnull"""
+        age: Age
+
         """
         プリキュアカラー
         """
