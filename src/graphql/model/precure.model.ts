@@ -20,4 +20,5 @@ export interface Precure {
   };
   fairy: string[];
   youtube_id: string | null;
+  description: string | null;
 }

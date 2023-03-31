@@ -103,6 +103,9 @@ input Age {
       """Youtubeの公式変身動画の動画id"""
       youtube_id:String
 
+      """キャラクターの説明"""
+      description:String
+
     }
     type Series {
       """キャラクターデザイン"""
